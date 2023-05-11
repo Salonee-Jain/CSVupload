@@ -1,5 +1,5 @@
 const express = require('express');
-const PORT = 4000;
+const PORT = 3000;
 const app = express();
 const path = require('path');
 const expressLayouts = require('express-ejs-layouts');
